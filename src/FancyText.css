@@ -1,0 +1,12 @@
+/* src/FancyText.css */
+.title {
+    font-size: 2em;
+    font-weight: bold;
+    color: #4A90E2;
+  }
+  
+  .regular {
+    font-size: 1em;
+    color: #333;
+  }
+  
